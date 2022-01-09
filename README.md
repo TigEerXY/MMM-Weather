@@ -11,7 +11,7 @@
 
 ## Installation, guides and updates
 
-Read the doc in [wiki](http://wiki.bugsounet.fr/en/MMM-Weather)
+Read the doc in https://github.com/bugsounet/MMM-Weather/wiki/Installation
 
 ## Credits
   * Author:
